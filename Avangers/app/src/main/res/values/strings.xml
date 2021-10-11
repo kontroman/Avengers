@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Avangers</string>
+    <string name="choose">Choose your hero</string>
+
+    <string name="Hero1">Spider Man</string>
+    <string name="Hero2">Halk</string>
+    <string name="Hero3">Captain America</string>
+    <string name="Hero4">Black Widow</string>
+    <string name="Hero5">Thor</string>
+    <string name="Hero6">Doctor Strange</string>
+    <string name="Hero7">Iron Man</string>
+</resources>
